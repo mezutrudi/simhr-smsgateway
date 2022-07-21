@@ -1,0 +1,51 @@
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Connected to Database: gammu on localhost
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Connected to Database native_mysql: gammu on localhost
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Created Windows RW shared memory at 001D0000
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Starting phone communication...
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Starting phone communication...
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Starting phone communication...
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Starting phone communication...
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Fri 2022/06/24 08:26:12 gammu-smsd[7940]: Going to 30 seconds sleep because of too much connection errors
+Fri 2022/06/24 08:26:42 gammu-smsd[7940]: Starting phone communication...
+Fri 2022/06/24 08:26:42 gammu-smsd[7940]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Fri 2022/06/24 08:26:42 gammu-smsd[7940]: Going to 30 seconds sleep because of too much connection errors
+Fri 2022/06/24 08:27:13 gammu-smsd[7940]: Starting phone communication...
+Fri 2022/06/24 08:27:13 gammu-smsd[7940]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Fri 2022/06/24 08:27:13 gammu-smsd[7940]: Going to 30 seconds sleep because of too much connection errors
+Fri 2022/06/24 08:27:23 gammu-smsd[7940]: Starting phone communication...
+Fri 2022/06/24 08:27:31 gammu-smsd[7940]: Error getting security status: Can not access SIM card. (NOSIM[49])
+Fri 2022/06/24 08:27:31 gammu-smsd[7940]: You might want to set CheckSecurity = 0 to avoid checking security status
+Fri 2022/06/24 08:27:31 gammu-smsd[7940]: Terminating communication...
+Fri 2022/06/24 08:27:40 gammu-smsd[4712]: Connected to Database: gammu on localhost
+Fri 2022/06/24 08:27:40 gammu-smsd[4712]: Connected to Database native_mysql: gammu on localhost
+Fri 2022/06/24 08:27:40 gammu-smsd[4712]: Created Windows RW shared memory at 001E0000
+Fri 2022/06/24 08:27:40 gammu-smsd[4712]: Starting phone communication...
+Fri 2022/06/24 08:27:49 gammu-smsd[4712]: Error getting security status: Can not access SIM card. (NOSIM[49])
+Fri 2022/06/24 08:27:49 gammu-smsd[4712]: You might want to set CheckSecurity = 0 to avoid checking security status
+Fri 2022/06/24 08:27:49 gammu-smsd[4712]: Already hit 0 errors
+Fri 2022/06/24 08:27:49 gammu-smsd[4712]: Terminating communication: No error. (NONE[1])
+Fri 2022/06/24 08:27:49 gammu-smsd[4712]: Starting phone communication...
+Fri 2022/06/24 08:27:58 gammu-smsd[4712]: Error getting security status: Can not access SIM card. (NOSIM[49])
+Fri 2022/06/24 08:27:58 gammu-smsd[4712]: You might want to set CheckSecurity = 0 to avoid checking security status
+Fri 2022/06/24 08:27:58 gammu-smsd[4712]: Already hit 1 errors
+Fri 2022/06/24 08:27:58 gammu-smsd[4712]: Terminating communication: No error. (NONE[1])
+Fri 2022/06/24 08:27:58 gammu-smsd[4712]: Going to 30 seconds sleep because of too much connection errors
+Fri 2022/06/24 08:28:28 gammu-smsd[4712]: Starting phone communication...
+Fri 2022/06/24 08:28:37 gammu-smsd[4712]: Error getting security status: Can not access SIM card. (NOSIM[49])
+Fri 2022/06/24 08:28:37 gammu-smsd[4712]: You might want to set CheckSecurity = 0 to avoid checking security status
+Fri 2022/06/24 08:28:37 gammu-smsd[4712]: Terminating communication...
+Fri 2022/06/24 08:30:45 gammu-smsd[3772]: Connected to Database: gammu on localhost
+Fri 2022/06/24 08:30:45 gammu-smsd[3772]: Connected to Database native_mysql: gammu on localhost
+Fri 2022/06/24 08:30:45 gammu-smsd[3772]: Created Windows RW shared memory at 006D0000
+Fri 2022/06/24 08:30:45 gammu-smsd[3772]: Starting phone communication...
+Fri 2022/06/24 08:30:54 gammu-smsd[3772]: Inserting phone info
+Fri 2022/06/24 08:32:26 gammu-smsd[3772]: Terminating communication...
+Fri 2022/06/24 08:34:03 gammu-smsd[9204]: Connected to Database: gammu on localhost
+Fri 2022/06/24 08:34:03 gammu-smsd[9204]: Connected to Database native_mysql: gammu on localhost
+Fri 2022/06/24 08:34:03 gammu-smsd[9204]: Created Windows RW shared memory at 006D0000
+Fri 2022/06/24 08:34:03 gammu-smsd[9204]: Starting phone communication...
+Fri 2022/06/24 08:34:03 gammu-smsd[9204]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])

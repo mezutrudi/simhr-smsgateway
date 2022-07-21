@@ -1,0 +1,4 @@
+install services
+Gammu-smsd -c smsd -i
+lalu start service
+Gammu-smsd -c smsd

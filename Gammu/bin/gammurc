@@ -1,0 +1,4 @@
+[gammu]
+
+device = com13:
+connection = at

@@ -1,0 +1,12 @@
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: Using SQL service
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: Configuring Gammu SMSD...
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: PIN code is "1234"
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: CommTimeout=20, SendTimeout=20, ReceiveFrequency=0, ResetFrequency=0, HardResetFrequency=0
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: checks: CheckSecurity=1, CheckBattery=1, CheckSignal=1
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: mode: Send=1, Receive=1
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: deliveryreport = no
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: phoneid = Server1
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: SQLConnect failed, Code = -1, ODBC diagnostics:
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: IM014:1:0:[Microsoft][ODBC Driver Manager] The specified DSN contains an architecture mismatch between the Driver and Application
+
+Thu 2022/06/23 23:50:08 gammu-smsd[10000]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])

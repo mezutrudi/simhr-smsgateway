@@ -1,0 +1,23 @@
+; This file format was designed for Gammu and is compatible with Gammu+
+; See <http://www.gammu.org> for more info
+; Saved 20220623T170830 (23/06/2022 17:08:30 (Thu))
+
+[SMSBackup000]
+; uji coba
+PDU = Submit
+DateTime = 20220623T170830Z
+State = Sent
+Number = "085156090184"
+NumberUnicode = 003000380035003100350036003000390030003100380034
+Name = ""
+NameUnicode = 
+Text00 = 0075006A006900200063006F00620061
+Coding = Default_No_Compression
+Folder = 1
+Length = 8
+Class = -1
+ReplySMSC = False
+RejectDuplicates = False
+ReplaceMessage = 0
+MessageReference = 0
+
